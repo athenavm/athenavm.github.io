@@ -60,7 +60,7 @@ You can then create a barebones test application and run it with the following c
 
     > cargo athena new fibonacci
     > cd fibonacci/script
-    > cargo athena execute
+    > cargo run
 
 Here’s what a complete, barebones Athena application looks like. [As promised](https://www.athenavm.org/athena/update/2024/05/09/project-update#developer-experience)—it’s just Rust! You can expect to see more sophisticated examples soon as we add the blockchain-related functionality described above.
 
