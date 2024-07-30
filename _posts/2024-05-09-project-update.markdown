@@ -3,6 +3,7 @@ layout: post
 title:  "Project Update"
 date:   2024-05-09 15:25:33 -0700
 categories: athena update
+permalink: /2024/05/09/project-update.html
 ---
 
 It’s been a couple of months since we announced the Athena project and a month since the last update. I’ve spent the past few weeks doing research into best practices and the state of the art in blockchain VM and zkVM design, tooling, programming language design, etc. across a number of ecosystems including EVM, Move, Solana, Bitcoin, NEAR, and Cairo (I previously wrote a little bit about some of the [initial experimentation](https://rettig.substack.com/p/blockchain-devex-battle)). I want to take the opportunity to update the community about how the Athena project is going: what has and has not changed from the goals and plans we originally announced, what’s been done, what we’re working on right now, and where we go from here.

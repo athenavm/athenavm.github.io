@@ -3,6 +3,7 @@ layout: post
 title:  "July Project Update"
 date:   2024-07-20 16:25:33 -0700
 categories: athena update
+permalink: /2024/07/20/july-project-update.html
 ---
 
 We’re overdue for another Athena project update. Lots has happened over the past month. I was hoping that the current phase, Blockchain Integration, would be finished in time for this update. We’re not quite there yet, but we’re close.

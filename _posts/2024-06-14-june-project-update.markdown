@@ -3,6 +3,7 @@ layout: post
 title:  "June Project Update"
 date:   2024-06-14 16:25:33 -0700
 categories: athena update
+permalink: /2024/06/14/june-project-update.html
 ---
 
 It’s been a while since the last Athena project update. A lot of progress has been made since then so it seems about time for another update.
