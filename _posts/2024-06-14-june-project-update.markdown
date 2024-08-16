@@ -55,7 +55,7 @@ You can already compile and run programs on Athena (with the caveat that, as men
 
 All you need to do is run the following commands to download and install Athena and its toolchain:
 
-    > curl -L http://install.athenavm.org | bash && athup
+    > curl -L https://install.athenavm.org | bash && athup
 
 You can then create a barebones test application and run it with the following commands:
 
