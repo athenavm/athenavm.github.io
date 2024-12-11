@@ -24,17 +24,17 @@ The explorer can already parse and show Athena transactions executed on the test
 
 #### Spawn transaction
 
-![]({{site.baseurl}}/assets/tx_spawn.png){: style="width: 50%; display: block; margin: 0 auto;" }
+![]({{site.baseurl}}/assets/tx_spawn.png)
 
 #### Spend transaction
 
-![]({{site.baseurl}}/assets/tx_spend.png){: style="width: 50%; display: block; margin: 0 auto;" }
+![]({{site.baseurl}}/assets/tx_spend.png)
 
-![]({{site.baseurl}}/assets/account_received_spend.png){: style="width: 50%; display: block; margin: 0 auto;" }
+![]({{site.baseurl}}/assets/account_received_spend.png)
 
 #### Coinbase receiving rewards for smeshing
 
-![]({{site.baseurl}}/assets/account_rewards.png){: style="width: 50%; display: block; margin: 0 auto;" }
+![]({{site.baseurl}}/assets/account_rewards.png)
 
 ## What's Next
 
