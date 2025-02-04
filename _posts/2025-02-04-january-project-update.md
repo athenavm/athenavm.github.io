@@ -63,12 +63,15 @@ Below is a diagram illustrating how one can purchase tokens using these contract
 
 ## Contributing
 
-As always, we encourage you to follow the project on [GitHub](https://github.com/athenavm) and [X](https://x.com/hashtag/athenavm),
-and to join the conversation in the [#athena-vm](https://discord.com/invite/yVhQ7rC) channel on our Discord.
-
 Athena is being built fully in the open, and the codebase is fully open source and permissively licensed.
-If you’re interested in contributing, take a look at the list of issues tagged `Help Wanted` and `Good First Issue` on GitHub.
+If you’re interested in contributing, take a look at the list of issues tagged `Help Wanted` and `Good First Issue` on [GitHub](https://github.com/athenavm).
 
 ---
 
-Thank you for your continued support and interest in Athena. As always, we welcome your feedback and encourage
+Thank you for your continued support and interest in Athena.
+As always, we welcome your feedback and encourage you to experiment with the devnet.
+Please to follow the project on [GitHub](https://github.com/athenavm) and [X](https://x.com/hashtag/athenavm),
+and to join the conversation in the [#athena-vm](https://discord.com/invite/yVhQ7rC) channel on our Discord
+to stay up to date with our developments.
+
+Stay tuned for more updates next month!
