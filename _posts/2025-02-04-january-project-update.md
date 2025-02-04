@@ -19,6 +19,8 @@ However, in the final design, AthenaVM will work alongside the genesis VM—more
 If you’re interested in testing it out, we welcome you to deploy your own contracts and explore its capabilities.
 Your feedback will be invaluable in refining the system!
 
+To join the network, please follow the guide located [here](https://docs.spacemesh.io/docs/experimental/athena-devnet).
+
 ## PROXY Method Implemented
 
 A major milestone this month was the implementation of the `PROXY` method, now integrated into the single-signature wallet.
