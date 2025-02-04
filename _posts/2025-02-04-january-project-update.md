@@ -41,6 +41,10 @@ These contracts allow users to create and exchange custom tokens.
 - **Token Wallet Contract:** Manages token balances and enables transfers between accounts.
   A single wallet can hold multiple tokens, each identified by the address of the mint account that created them.
 
+We recorded a video explaining how these contracts work:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/coDYrlq9J1Q?si=1qDEvWFf8oNQglL2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### How Users Exchange SMH for Tokens
 
 The process of exchanging SMH for a token involves three contracts working together:
@@ -57,6 +61,11 @@ The process of exchanging SMH for a token involves three contracts working toget
 Below is a diagram illustrating how one can purchase tokens using these contracts:
 
 ![buying tokens]({{site.baseurl}}/assets/mint_diagram.png)
+
+The code of these contracts is available on GitHub:
+[`MINT`](https://github.com/athenavm/athena/blob/ed3f44443690e3d302f6defa48fb5f71d9ba6a25/examples/token/mint/src/main.rs)
+and
+[`WALLET`](https://github.com/athenavm/athena/blob/ed3f44443690e3d302f6defa48fb5f71d9ba6a25/examples/token/wallet/src/main.rs).
 
 ## Looking Ahead
 
