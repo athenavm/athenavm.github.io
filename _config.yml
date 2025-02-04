@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Athena
+title: Athena VM
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Athena is a modern blockchain operating system for running programs (a.k.a. smart contracts) in a manner that's performant, deterministic, and efficiently provable.
+  Athena VM is a modern blockchain operating system for running programs (a.k.a. smart contracts) in a manner that's performant, deterministic, and efficiently provable.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://athenavm.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: teamspacemesh
 github_username:  athenavm
+favicon: "/favicon.ico"
 
 # Build settings
 theme: minima
